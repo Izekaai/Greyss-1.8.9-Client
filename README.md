@@ -11,7 +11,7 @@ Drop the `.jar` in your `mods` folder and launch Minecraft 1.8.9.
 - **'** – Open GUI
 
 Join the community on Discord: [https://discord.gg/vBBgtekPvz](https://discord.gg/vBBgtekPvz)
-
+[Greyss 1.8.9 Client .jar](https://github.com/Izekaai/Greyss-1.8.9-Client/releases/download/1.0/Greyss.jar)
 
 
 
